@@ -88,24 +88,21 @@ I wrote this intro with Git in mind because it is the version control system (VC
 Version control started with local VCS to keep track of the different versions of a file.
 
 ![local VCS](img/local-vcs.png)
-
 image from Git documentation
 
 This becomes limited when working on a project with other people.
 
-That's why teams usually choose Git, Subversion (svn) or Mercurial (hg).
+That's why teams usually choose **Git**, **Subversion** (svn) or **Mercurial** (hg).
 See this Stackoverflow [thread](http://stackoverflow.com/questions/3183064/git-vs-mercurial-vs-svn) where people compare those three VCS.
 
-They are different as Subversion has a single central repository.
+They are different as Subversion has a single **central** repository.
 
 ![central VCS](img/central-vcs.png)
-
 image from Git documentation
 
-Git and Mercurial unlike Subversion are distributed and are therefore more suited for a team to work on the same project.
+Git and Mercurial unlike Subversion are **distributed** and are therefore more suited for a team to work on the same project.
 
 ![distributed VCS](img/distributed-vcs.png)
-
 image from Git documentation
 
 
@@ -116,6 +113,9 @@ image from Git documentation
 In order to collaborate using git you need to create a remote repository on a git server.
 People will push and pull changes from this remote repository to their local instance.
 
+
 You can set up your own git server, but most teams go for a fully featured git servers.
-Using Github or Bitbucket can be as simple as signing up to the web apps while GitLab needs to be installed on your server.
+
+Using **Github** or **Bitbucket** can be as simple as signing up to the web apps while **GitLab** needs to be installed on your server.
+
 Github and Bitbucket can also be run on your own server. See a comparison of the three services on this [blogpost](https://technologyconversations.com/2015/10/16/github-vs-gitlabs-vs-bitbucket-server-formerly-stash/).

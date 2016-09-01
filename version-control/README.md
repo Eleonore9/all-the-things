@@ -13,5 +13,11 @@ Note: most of the content is taken from the [git training](https://github.com/py
 
 ### Learning resources
 
+* [Try Git](https://try.github.io/levels/1/challenges/1)
+
+* [OpenHatch Git mission](https://openhatch.org/missions/git)
+
 
 ### For the more advanced git users
+
+* [Git internals](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)
