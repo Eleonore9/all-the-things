@@ -1,10 +1,4 @@
-# On version control
-
 ## Intro to version control with Git
-
-Note: most of this is taken from the [git training](https://github.com/pyladieslondon/git-training) I wrote for a PyLadies London meetup.
-
-See lightning talk slides for that meetup [here](http://nbviewer.ipython.org/github/pyladieslondon/git-training/blob/master/PyLadiesLondon-Git.ipynb)
 
 ###About version control
 
@@ -94,6 +88,7 @@ I wrote this intro with Git in mind because it is the version control system (VC
 Version control started with local VCS to keep track of the different versions of a file.
 
 ![local VCS](img/local-vcs.png)
+
 image from Git documentation
 
 This becomes limited when working on a project with other people.
@@ -104,11 +99,13 @@ See this Stackoverflow [thread](http://stackoverflow.com/questions/3183064/git-v
 They are different as Subversion has a single central repository.
 
 ![central VCS](img/central-vcs.png)
+
 image from Git documentation
 
 Git and Mercurial unlike Subversion are distributed and are therefore more suited for a team to work on the same project.
 
 ![distributed VCS](img/distributed-vcs.png)
+
 image from Git documentation
 
 
