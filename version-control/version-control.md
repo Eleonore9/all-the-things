@@ -4,7 +4,7 @@
 
 Note: most of this is taken from the [git training](https://github.com/pyladieslondon/git-training) I wrote for a PyLadies London meetup.
 
-See lightning talk slides [here](http://nbviewer.ipython.org/github/pyladieslondon/git-training/blob/master/PyLadiesLondon-Git.ipynb)
+See lightning talk slides for that meetup [here](http://nbviewer.ipython.org/github/pyladieslondon/git-training/blob/master/PyLadiesLondon-Git.ipynb)
 
 ###About version control
 
@@ -91,13 +91,30 @@ For more details: check the extensive [documentation](https://git-scm.com/doc).
 
 I wrote this intro with Git in mind because it is the version control system (VCS) I know best.
 
-Some people rather use Subversion (svn) or Mercurial (hg).
+Version control started with local VCS to keep track of the different versions of a file.
+
+![local VCS](img/local-vcs.png)
+image from Git documentation
+
+This becomes limited when working on a project with other people.
+
+That's why teams usually choose Git, Subversion (svn) or Mercurial (hg).
 See this Stackoverflow [thread](http://stackoverflow.com/questions/3183064/git-vs-mercurial-vs-svn) where people compare those three VCS.
 
-The main takeaway is that Git and Mercurial are distributed while Subversion has a single central repository. The first two are therefore more suited for a team to work on one project.
+They are different as Subversion has a single central repository.
+
+![central VCS](img/central-vcs.png)
+image from Git documentation
+
+Git and Mercurial unlike Subversion are distributed and are therefore more suited for a team to work on the same project.
+
+![distributed VCS](img/distributed-vcs.png)
+image from Git documentation
 
 
 ## Git servers
+
+**Important note for junior programmers: Git != Github**
 
 In order to collaborate using git you need to create a remote repository on a git server.
 People will push and pull changes from this remote repository to their local instance.
