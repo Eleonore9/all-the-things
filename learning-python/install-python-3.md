@@ -2,12 +2,14 @@
 
 Several operating systems come with Python installed (usually Python 2).
 
-If you do not have Python 3 install, here are information from [installation guides](https://docs.python-guide.org/starting/installation/):
+One way to install Python 3 alongside other Python scientific libraries is by downloading [Anaconda](https://docs.anaconda.com/anaconda/install/).
+
+Otherwise, install Python 3 using the following information from [installation guides](https://docs.python-guide.org/starting/installation/):
 
 ## Install Python 3 on MacOS
 [Link](https://docs.python-guide.org/starting/install3/osx/#install3-osx)
 
-Open a Terminal window and type the following comman
+Open a Terminal window and type the following commands
 
 1) If you don't have a package manager, install Homebrew:
 

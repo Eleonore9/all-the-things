@@ -1,6 +1,6 @@
 # Learning Python
 
-## [Install Python 3](#install-python-3)
+## [Install Python 3](https://github.com/Eleonore9/all-the-things/blob/master/learning-python/install-python-3.md)
 
 ## Resources
 
