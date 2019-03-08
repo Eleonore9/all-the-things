@@ -8,8 +8,6 @@ There are a lot of resources online to learn to code in Python
 
 * [DjangoGirls tutorial](http://tutorial.djangogirls.org/en/index.html)
 
-*
-
 * [Dataquest tutorials](https://www.dataquest.io/)
 
 * [Codecademy](http://www.codecademy.com/)
