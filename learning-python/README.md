@@ -1,6 +1,11 @@
 # Learning Python
 
-There are a lot of resources online to learn to code in Python
+## [Install Python 3](#install-python-3)
+
+## Resources
+
+There are a lot of resources online to learn to code in Python!
+Here are some of them:
 
 ### Tutorials
 
