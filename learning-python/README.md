@@ -9,6 +9,8 @@ Here are some of them:
 
 ### Tutorials
 
+* [Learn Python (Free interactive tutorial)](https://www.learnpython.org/)
+
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/intro.html)
 
 * [DjangoGirls tutorial](http://tutorial.djangogirls.org/en/index.html)
