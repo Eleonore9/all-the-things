@@ -6,6 +6,9 @@
 
 * [Version control](https://github.com/Eleonore9/all-the-things/blob/master/version-control)
 
+* [Learning python](https://github.com/Eleonore9/all-the-things/tree/master/learning-python) - short link: http://bit.ly/resources-python
+
+* [Creative coding](https://github.com/Eleonore9/all-the-things/tree/master/creative-coding) - short link: http://bit.ly/resources-creative-coding
 
 *Please file an issue if you find an error!*
 
