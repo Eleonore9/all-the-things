@@ -1,5 +1,8 @@
 # Learning Python
 
+## [Learning Python tutorial](https://github.com/Eleonore9/all-the-things/tree/master/learning-python/tutorials) **No install needed**
+#### Tutorial in development
+
 ## [Install Python 3](https://github.com/Eleonore9/all-the-things/blob/master/learning-python/install-python-3.md)
 
 ## Resources
