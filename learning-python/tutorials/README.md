@@ -9,4 +9,6 @@ This tutorial will be based on [learnpython.org](https://www.learnpython.org/).
 
 0) Notebook basics  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eleonore9/all-the-things/master?filepath=%2Flearning-python%2Ftutorials%2F0-notebook-basics.ipynb)
 
+1) Hello, world! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eleonore9/all-the-things/master?filepath=learning-python%2Ftutorials%2F1-hello-world.ipynb)
+
 How to use a Jupyter notebook (platform used for the tutorial)
